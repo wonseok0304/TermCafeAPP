@@ -466,7 +466,7 @@ Term Cafe 음료 커스터마이징 화면 이미지 생성 프롬프트(최종�
 ### 보너스 (선택)
 - [x] 디자인 시안 → HTML/CSS 코드 변환 완료
   - 사용 도구: Claude (Opus 5)
-  - 변환 결과물 위치: GitHub 저장소에 별도 업로드 예정 (`Bonus_code.html`)
+  - 변환 결과물 위치: GitHub 저장소에 별도 업로드 예정 (`Term Cafe.html`)
 
 ---
 
