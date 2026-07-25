@@ -496,4 +496,4 @@ Term Cafe 음료 커스터마이징 화면 이미지 생성 프롬프트(최종�
 | 기타 | 보너스 과제(디자인 시안 → HTML/CSS 변환): Claude (Opus 5) |
 
 ## 10. 보너스 과제
-완료. 파일명: `Bonus_code.html` (GitHub 저장소에 별도 업로드 예정)
+완료. 파일명: `Term Cafe.html` (GitHub 저장소에 별도 업로드)
